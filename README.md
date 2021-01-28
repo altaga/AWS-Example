@@ -15,7 +15,7 @@ AWS Config:
     aws configure
 
 Repositorio de App:
-
+https://github.com/altaga/AWS-Example
 
 Deploy Code:
         
